@@ -51,7 +51,6 @@ Follow these steps to set up the environment and run the application.
     ```bash
     pip install -r requirements.txt
     ```
-    _Note: If `requirements.txt` doesn't exist, you'll need to create it based on the imports in your Python files._
 
 ## Running the Application
 
