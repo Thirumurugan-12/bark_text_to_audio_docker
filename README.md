@@ -1,7 +1,6 @@
 # Generate Audio from text and clone voice with BARK
 
-This repository provides a user-friendly Gradio interface for Suno AI's BARK text-to-speech model. It allows you to generate audio from text using standard BARK functionalities and includes a unique feature for creating custom voice prompts (voice cloning) using a specially trained HuBERT model.
-
+You can generate audio from text with natural sounding voice and clone any voice (not perfect)
 ![Screenshot Placeholder](./assets/screenshot.png)
 
 ## Features
