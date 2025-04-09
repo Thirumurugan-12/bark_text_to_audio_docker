@@ -5,10 +5,21 @@ You can generate audio from text with natural sounding voice and clone any voice
 
 Code worked on Python 3.12. May also work on other versions.
 
-# Generated audios
+## Generated audios
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/huynhnhathao/bark_text_to_audio/assets/audio/sample_audio_1.wav" type="audio/wav">
+  <source src="https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_1.wav" type="audio/wav">
+  Your browser does not support the audio element
+</audio>
+
+<audio controls>
+  <source src="https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_2.wav" type="audio/wav">
+  Your browser does not support the audio element
+</audio>
+
+<audio controls>
+  <source src="https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_3.wav" type="audio/wav">
+  Your browser does not support the audio element
 </audio>
 
 ## Features
