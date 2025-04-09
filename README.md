@@ -1,7 +1,9 @@
 # Generate Audio from text and clone voice with BARK
 
-You can generate audio from text with natural sounding voice and clone any voice (not perfect)
+You can generate audio from text with natural sounding voice and clone any voice (not perfect).
 ![Screenshot Placeholder](./assets/screenshot.png)
+
+Code worked on Python 3.12. May also work on other versions
 
 ## Features
 
