@@ -83,6 +83,6 @@ MIT
 
 ## Acknowledgements
 
--   Suno AI
+-   Suno AI, they trained the models
 
--   gitmylo
+-   gitmylo, inspired me to use HuBERT to predict semantic tokens from audio
