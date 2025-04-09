@@ -5,7 +5,7 @@ You can generate audio from text with natural sounding voice and clone any voice
 
 Code worked on Python 3.12. May also work on other versions.
 
-Example generated audios in the /assets/audio folder
+Example generated audio in the /assets/audio folder
 
 ## Features
 
