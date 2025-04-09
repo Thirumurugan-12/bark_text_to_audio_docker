@@ -7,20 +7,11 @@ Code worked on Python 3.12. May also work on other versions.
 
 ## Generated audios
 
-<audio controls>
-  <source src="https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_1.webm" type="audio/webm">
-  Your browser does not support the audio element
-</audio>
+[audio1.webm](https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_1.webm)
 
-<audio controls>
-  <source src="https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_2.webm" type="audio/webm">
-  Your browser does not support the audio element
-</audio>
+[audio2.webm](https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_2.webm)
 
-<audio controls>
-  <source src="https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_3.webm" type="audio/webm">
-  Your browser does not support the audio element
-</audio>
+[audio3.webm](https://github.com/huynhnhathao/bark_text_to_audio/raw/refs/heads/main/assets/audio/sample_audio_3.webm)
 
 ## Features
 
