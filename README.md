@@ -50,7 +50,7 @@ Follow these steps to set up the environment and run the application.
     ```
 
 3.  **Install Requirements:**
-    Make sure you have a `requirements.txt` file in the repository root containing all necessary packages (e.g., `gradio`, `torch`, `transformers`, `bark-audio`, `soundfile`, etc.).
+    Make sure you have a `requirements.txt` file in the repository root containing all necessary packages (e.g., `gradio`, `torch`, `transformers`, `soundfile`, etc.).
     ```bash
     pip install -r requirements.txt
     ```
